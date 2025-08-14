@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ТОВ Mailim",
+    "category": "Образование",
+    "address": "ул. Примерная, 1",
+    "phone": "+7 700 000 0001",
+    "hours": "пн–пт 9:00–18:00",
+    "website": "https://example.com/mailim",
+    "lat": 51.733,
+    "lng": 75.324
+  },
+  {
+    "name": "ТОВ Энергия Азия",
+    "category": "Логистика",
+    "address": "пр. Центральный, 12",
+    "phone": "+7 700 000 0002",
+    "hours": "пн–сб 9:00–19:00",
+    "website": "https://example.com/energy",
+    "lat": 51.722,
+    "lng": 75.312
+  },
+  {
+    "name": "Медцентр Диагностика",
+    "category": "Здоровье",
+    "address": "ул. Медицинская, 5",
+    "phone": "+7 700 000 0003",
+    "hours": "ежедневно 8:00–20:00",
+    "website": "https://example.com/med",
+    "lat": 51.741,
+    "lng": 75.335
+  },
+  {
+    "name": "Учебный центр Профи",
+    "category": "Образование",
+    "address": "ул. Научная, 7",
+    "phone": "+7 700 000 0004",
+    "hours": "пн–пт 10:00–19:00",
+    "website": "https://example.com/profi",
+    "lat": 51.718,
+    "lng": 75.306
+  },
+  {
+    "name": "Магазин ДомТех",
+    "category": "Ритейл",
+    "address": "ул. Торговая, 3",
+    "phone": "+7 700 000 0005",
+    "hours": "ежедневно 10:00–21:00",
+    "website": "https://example.com/domtech",
+    "lat": 51.726,
+    "lng": 75.345
+  },
+  {
+    "name": "Кафе Город",
+    "category": "Общественное питание",
+    "address": "пр. Независимости, 50",
+    "phone": "+7 700 000 0006",
+    "hours": "ежедневно 9:00–23:00",
+    "website": "https://example.com/cafe",
+    "lat": 51.73,
+    "lng": 75.33
+  }
+]
